@@ -1,6 +1,8 @@
 # Database-CourseHomework
 
   UESTC Database course homework,using examples and tests from Standford University's db course（电子科技大学《数据库原理及应用》课程作业，使用斯坦福大学DB课程的例子与练习）
+  
+  Codes are based on MySQL 5.7.22
 
 # Assignment for SQL 1（This assignment contains 21 s）
 
