@@ -4,7 +4,7 @@
   
   Codes are based on MySQL 5.7.22
 
-# Assignment for SQL 1（This assignment contains 21 s）
+# Assignment for SQL 1（This assignment contains 21 questions）
 
 ## Description
 
