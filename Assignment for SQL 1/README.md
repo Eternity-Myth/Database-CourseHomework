@@ -11,7 +11,7 @@ English: The reviewer with ID number rID has a certain name.
 Rating ( rID, mID, stars, ratingDate )
 English: The reviewer rID gave the movie mID a number of stars rating (1-5) on a certain ratingDate.
 
-(Notes: Some query answers are not unique)
+(Notes: Some query SQL are not unique)
 
 ### Q1
 #### Find the titles of all movies directed by Steven Spielberg.
