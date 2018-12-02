@@ -4,6 +4,20 @@
   
   Codes are based on MySQL 5.7.22
 
+# Assignment for Relational Algebra 2（This assignment contains 5 questions）
+
+## Description
+
+We've created a small sample database to use for this assignment. It contains four relations:
+    
+    Person(name, age, gender)       // name is a key
+    
+    Frequents(name, pizzeria)  // [name,pizzeria] is a key
+    
+    Eats(name, pizza)               // [name,pizza] is a key
+    
+    Serves(pizzeria, pizza, price)  // [pizzeria,pizza] is a key
+
 # Assignment for SQL 1（This assignment contains 21 questions）
 
 ## Description
