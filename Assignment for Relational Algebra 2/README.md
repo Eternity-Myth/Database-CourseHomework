@@ -1,4 +1,4 @@
-# Assignment for Relational Algebra
+# Assignment for Relational Algebra 2
 
 We've created a small sample database to use for this assignment. It contains four relations:
     
